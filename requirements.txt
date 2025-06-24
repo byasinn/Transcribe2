@@ -1,0 +1,5 @@
+whisper
+transformers
+torch
+yt-dlp
+fpdf
